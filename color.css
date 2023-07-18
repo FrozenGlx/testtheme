@@ -4,11 +4,11 @@
     --var-accent: #ffd1dc;
     --var-black1: rgb(0 0 0 / 55%);
     --var-black2: rgb(0 0 0 / 65%);
-    --var-notification: #ff85a2;
-    --var-popout-color: rgb(100 82 86);
+    --var-notification: #ffb8c9;
+    --var-popout-color: rgb(255,184,201);
 
     /* Chat */
-    --var-chat-bubbles-background: rgb(100 82 86);
-    --var-chat-bubbles-edge-background: rgb(100 72 79);
-    --var-chat-mentioned: rgb(100 62 71);
+    --var-chat-bubbles-background: rgb(243,140,175);
+    --var-chat-bubbles-edge-background: rgb(255,184,201);
+    --var-chat-mentioned: rgb(255,158,181);
 }
