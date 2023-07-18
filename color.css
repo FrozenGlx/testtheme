@@ -1,0 +1,14 @@
+/* River Preset */
+:root {
+    --var-background: url(https://i.imgur.com/sXwpHUW.png);
+    --var-accent: #860F06;
+    --var-black1: rgb(0 0 0 / 55%);
+    --var-black2: rgb(0 0 0 / 65%);
+    --var-notification: #A14B9C;
+    --var-popout-color: rgb(166 25 82);
+
+    /* Chat */
+    --var-chat-bubbles-background: rgb(166 25 82);
+    --var-chat-bubbles-edge-background: rgb(204 67 113);
+    --var-chat-mentioned: rgb(242 102 145);
+}
