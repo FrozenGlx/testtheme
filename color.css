@@ -1,14 +1,14 @@
 /* River Preset */
 :root {
     --var-background: url(https://i.imgur.com/sXwpHUW.png);
-    --var-accent: #ffd1dc;
+    --var-accent: #ab5f9a;
     --var-black1: rgb(0 0 0 / 55%);
     --var-black2: rgb(0 0 0 / 65%);
-    --var-notification: #ffb8c9;
-    --var-popout-color: rgb(255 184 201);
+    --var-notification: #ab5f9a;
+    --var-popout-color: rgb(141 74 126);
 
     /* Chat */
-    --var-chat-bubbles-background: rgb(243 140 175);
-    --var-chat-bubbles-edge-background: rgb(255 184 201);
-    --var-chat-mentioned: rgb(255 158 181);
+    --var-chat-bubbles-background: rgb(38 20 34);
+    --var-chat-bubbles-edge-background: rgb(38 20 34);
+    --var-chat-mentioned: rgb(141 74 126);
 }
